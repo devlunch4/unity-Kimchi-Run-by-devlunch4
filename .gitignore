@@ -1,9 +1,9 @@
 # /Assembly-CSharp.csproj
 /Library
 # /Logs
-/Lunch-Run.sln
-/Packages
-/ProjectSettings
+# /Lunch-Run.sln
+# /Packages
+# /ProjectSettings
 /Temp
 # /UserSettings
 /WebGL Builds
