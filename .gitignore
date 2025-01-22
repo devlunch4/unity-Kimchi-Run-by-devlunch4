@@ -1,11 +1,11 @@
-/Assembly-CSharp.csproj
+# /Assembly-CSharp.csproj
 /Library
-/Logs
+# /Logs
 /Lunch-Run.sln
 /Packages
 /ProjectSettings
 /Temp
-/UserSettings
+# /UserSettings
 /WebGL Builds
 /connectwebgl.zip
 /webgl_sharing
